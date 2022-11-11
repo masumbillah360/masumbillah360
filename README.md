@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Masum Billah</h1>
 <h3 align="center">A passionate frontend developer from Dhaka, Bangladesh.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masumbillah360" alt="masumbillah360" /></a> </p>
+<p align="left"> <a href="https://github.com/masumbillah360/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masumbillah360" alt="masumbillah360" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

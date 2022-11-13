@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Masum Billah</h1>
 <h3 align="center">A passionate frontend developer from Dhaka, Bangladesh.</h3>
-
-- 🌱 I’m currently learning **ReactJs**
+###I’m currently learning **ReactJs**
 
 <h3 align="left">Connect with me: <a>masumbillah6584@gmail.com</a> </h3>
 <p align="left">

@@ -10,8 +10,7 @@
 [<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://web.facebook.com/masumbillah6584/)
   </div>
   
-###  I’m exploring - Here’s a list of similar tech stacks and concepts you're exploring, formatted like "Docker" and "Microservices":
-
+###  I’m exploring
 1. **Docker**  
 2. **Microservices Architecture**  
 3. **Serverless Architecture**  

@@ -71,22 +71,6 @@ Currently working as a **Senior Developer at Peacock India**, contributing to en
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masum-billah&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masum-billah&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masum-billah&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🤝 Let’s Connect
 
 - 🌐 Portfolio: https://masum-billah.vercel.app  

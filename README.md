@@ -70,6 +70,9 @@ Currently working as a **Senior Developer at Peacock India**, contributing to en
 </p>
 
 ---
+<a href="https://wakatime.com/@b20fd90a-8c6c-4383-a634-296255464d98"><img src="https://wakatime.com/badge/user/b20fd90a-8c6c-4383-a634-296255464d98.svg" alt="Total time coded since Apr 13 2026" /></a>
+---
+---
 
 ## 🤝 Let’s Connect
 
